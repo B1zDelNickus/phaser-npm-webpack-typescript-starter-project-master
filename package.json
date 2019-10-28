@@ -1,0 +1,62 @@
+{
+  "name": "phaser-npm-webpack-typescript-starter-project",
+  "productName": "phaser-npm-webpack-typescript-starter-project",
+  "version": "1.7.12",
+  "main": "electron-main.js",
+  "scripts": {
+    "webpack:dev": "webpack --config webpack.dev.config.js --progress --colors",
+    "webpack:dist": "webpack --config webpack.dist.config.js --progress --colors",
+    "build:dev": "echo-cli 'Building DEV ...' && npm run webpack:dev && echo-cli 'Build Complete ✔'",
+    "build:dist": "echo-cli 'Building DIST ...' && npm run webpack:dist && echo-cli 'Build Complete ✔'",
+    "server:dev": "webpack-dev-server --config webpack.dev.config.js --open",
+    "server:dist": "webpack-dev-server --config webpack.dist.config.js --open",
+    "setupGameSize": "node ./scripts/setupGameSize.js",
+    "assets:dev": "node ./scripts/generateAssetsClass.js --dev",
+    "assets": "node ./scripts/generateAssetsClass.js",
+    "postinstall": "npm run setupGameSize",
+    "electron:dev": "npm run build:dev && electron .",
+    "electron:dist": "npm run build:dist && electron .",
+    "electron:pack:dev": "npm run build:dev && node ./scripts/packageElectronApp.js",
+    "electron:pack:dist": "npm run build:dist && node ./scripts/packageElectronApp.js",
+    "checkDepsVersions": "npm-check --skip-unused -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project.git"
+  },
+  "author": "Richard Roylance <https://github.com/rroylance>",
+  "bugs": {
+    "url": "https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project/issues"
+  },
+  "homepage": "https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project#readme",
+  "devDependencies": {
+    "@orange-games/phaser-ads": "^2.3.1-alpha1",
+    "@types/google.analytics": "0.0.35",
+    "@types/node": "^8.0.33",
+    "@types/webfontloader": "^1.6.28",
+    "clean-webpack-plugin": "^0.1.17",
+    "commander": "2.11.0",
+    "copy-webpack-plugin": "^4.1.1",
+    "echo-cli": "1.0.8",
+    "electron": "^1.7.8",
+    "electron-packager": "^9.1.0",
+    "expose-loader": "0.7.3",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "imagemin-webpack-plugin": "^1.5.2",
+    "npm-check": "5.4.5",
+    "phaser-ce": "^2.9.0",
+    "pngjs-image": "0.11.7",
+    "shelljs": "0.7.8",
+    "ts-loader": "^2.3.7",
+    "tslint": "^5.7.0",
+    "tslint-loader": "3.5.3",
+    "typescript": "^2.5.3",
+    "uglifyjs-webpack-plugin": "^1.0.0-beta.1",
+    "webfontloader": "1.6.28",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-shell-plugin": "0.5.0",
+    "xml2js": "^0.4.19"
+  }
+}

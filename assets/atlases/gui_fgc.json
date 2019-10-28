@@ -1,0 +1,82 @@
+{
+"frames": [
+	{
+		"filename": "done_fgc.png",
+		"frame": {"x":0, "y":280, "w":135, "h":137},
+		"spriteSourceSize": {"x":0,"y":0,"w":135,"h":137},
+		"sourceSize": {"w":135,"h":137}
+	},
+	{
+		"filename": "dummy.png",
+		"frame": {"x":0, "y":987, "w":1, "h":1},
+		"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+		"sourceSize": {"w":1,"h":1}
+	},
+	{
+		"filename": "l_arr_fgc.png",
+		"frame": {"x":139, "y":703, "w":132, "h":114},
+		"spriteSourceSize": {"x":0,"y":0,"w":132,"h":114},
+		"sourceSize": {"w":132,"h":114}
+	},
+	{
+		"filename": "logo_fgc.png",
+		"frame": {"x":0, "y":0, "w":317, "h":127},
+		"spriteSourceSize": {"x":0,"y":0,"w":317,"h":127},
+		"sourceSize": {"w":317,"h":127}
+	},
+	{
+		"filename": "more_fgc.png",
+		"frame": {"x":0, "y":845, "w":134, "h":137},
+		"spriteSourceSize": {"x":0,"y":0,"w":134,"h":137},
+		"sourceSize": {"w":134,"h":137}
+	},
+	{
+		"filename": "photo_fgc.png",
+		"frame": {"x":0, "y":564, "w":135, "h":134},
+		"spriteSourceSize": {"x":0,"y":0,"w":135,"h":134},
+		"sourceSize": {"w":135,"h":134}
+	},
+	{
+		"filename": "play_fgc.png",
+		"frame": {"x":0, "y":703, "w":134, "h":137},
+		"spriteSourceSize": {"x":0,"y":0,"w":134,"h":137},
+		"sourceSize": {"w":134,"h":137}
+	},
+	{
+		"filename": "r_arr_fgc.png",
+		"frame": {"x":139, "y":822, "w":132, "h":114},
+		"spriteSourceSize": {"x":0,"y":0,"w":132,"h":114},
+		"sourceSize": {"w":132,"h":114}
+	},
+	{
+		"filename": "replay_fgc.png",
+		"frame": {"x":0, "y":422, "w":135, "h":137},
+		"spriteSourceSize": {"x":0,"y":0,"w":135,"h":137},
+		"sourceSize": {"w":135,"h":137}
+	},
+	{
+		"filename": "sound_off_fgc.png",
+		"frame": {"x":140, "y":280, "w":130, "h":133},
+		"spriteSourceSize": {"x":0,"y":0,"w":130,"h":133},
+		"sourceSize": {"w":130,"h":133}
+	},
+	{
+		"filename": "sound_on_fgc.png",
+		"frame": {"x":140, "y":418, "w":130, "h":133},
+		"spriteSourceSize": {"x":0,"y":0,"w":130,"h":133},
+		"sourceSize": {"w":130,"h":133}
+	},
+	{
+		"filename": "start_fgc.png",
+		"frame": {"x":0, "y":132, "w":157, "h":143},
+		"spriteSourceSize": {"x":0,"y":0,"w":157,"h":143},
+		"sourceSize": {"w":157,"h":143}
+	}
+
+],
+"meta": {
+	"image": "gui_fgc.png",
+	"size": {"w": 1024, "h": 1024},
+	"scale": "1"
+}
+}

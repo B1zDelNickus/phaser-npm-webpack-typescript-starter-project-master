@@ -1,0 +1,40 @@
+{
+"frames": [
+	{
+		"filename": "again_mcg.png",
+		"frame": {"x":0, "y":0, "w":273, "h":131},
+		"spriteSourceSize": {"x":0,"y":0,"w":273,"h":131},
+		"sourceSize": {"w":273,"h":131}
+	},
+	{
+		"filename": "dummy.png",
+		"frame": {"x":0, "y":448, "w":1, "h":1},
+		"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+		"sourceSize": {"w":1,"h":1}
+	},
+	{
+		"filename": "go_mcg.png",
+		"frame": {"x":179, "y":313, "w":174, "h":131},
+		"spriteSourceSize": {"x":0,"y":0,"w":174,"h":131},
+		"sourceSize": {"w":174,"h":131}
+	},
+	{
+		"filename": "logo_mcg.png",
+		"frame": {"x":0, "y":136, "w":182, "h":172},
+		"spriteSourceSize": {"x":0,"y":0,"w":182,"h":172},
+		"sourceSize": {"w":182,"h":172}
+	},
+	{
+		"filename": "skip_mcg.png",
+		"frame": {"x":0, "y":313, "w":174, "h":130},
+		"spriteSourceSize": {"x":0,"y":0,"w":174,"h":130},
+		"sourceSize": {"w":174,"h":130}
+	}
+
+],
+"meta": {
+	"image": "main_mcg.png",
+	"size": {"w": 512, "h": 512},
+	"scale": "1"
+}
+}

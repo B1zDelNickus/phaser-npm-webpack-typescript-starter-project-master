@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "types": [
+      "node"
+    ]
+  },
+  "files": [
+    "./src/globals.d.ts",
+    "./src/app.ts",
+    "./node_modules/phaser-ce/typescript/phaser.comments.d.ts",
+    "./node_modules/@orange-games/phaser-ads/build/phaser-ads.d.ts",
+    //"./node_modules/@orange-games/phaser-ads/vendor/game-distribution.d.ts",
+    //"./node_modules/@orange-games/phaser-ads/vendor/google-ima3-sdk.d.ts",
+    // "./node_modules/phaser-ce/typescript/pixi.comments.d.ts",
+    "./vendor/spriter/spriter.d.ts",
+    "./node_modules/@types/google.analytics/index.d.ts"
+  ]
+}

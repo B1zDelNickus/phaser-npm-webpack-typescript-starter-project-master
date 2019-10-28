@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "doll_arm",
+	"frame": {"x":396,"y":158,"w":98,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":175,"w":98,"h":208},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_body",
+	"frame": {"x":268,"y":486,"w":192,"h":548},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":172,"w":192,"h":548},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_eyes1",
+	"frame": {"x":944,"y":32,"w":68,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":132,"w":68,"h":28},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_eyes2",
+	"frame": {"x":944,"y":62,"w":66,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":134,"w":66,"h":26},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_eyes3",
+	"frame": {"x":944,"y":2,"w":70,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":133,"w":70,"h":28},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_hairback",
+	"frame": {"x":2,"y":844,"w":238,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":91,"w":238,"h":302},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_hand",
+	"frame": {"x":396,"y":368,"w":82,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":148,"w":82,"h":116},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_head",
+	"frame": {"x":840,"y":278,"w":168,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":73,"w":168,"h":216},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_kiss",
+	"frame": {"x":944,"y":138,"w":40,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":168,"w":40,"h":20},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "doll_lips",
+	"frame": {"x":944,"y":160,"w":34,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":168,"w":34,"h":22},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "dressup_mcg.png",
+	"frame": {"x":462,"y":674,"w":236,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":8,"w":236,"h":284},
+	"sourceSize": {"w":280,"h":300}
+},
+{
+	"filename": "flash",
+	"frame": {"x":496,"y":278,"w":342,"h":394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":342,"h":394},
+	"sourceSize": {"w":420,"h":720}
+},
+{
+	"filename": "hair_mcg.png",
+	"frame": {"x":2,"y":408,"w":264,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":58,"w":264,"h":182},
+	"sourceSize": {"w":280,"h":300}
+},
+{
+	"filename": "logo_mcg.png",
+	"frame": {"x":2,"y":158,"w":392,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":392,"h":248},
+	"sourceSize": {"w":416,"h":274}
+},
+{
+	"filename": "logo_glow_mcg.png",
+	"frame": {"x":526,"y":2,"w":416,"h":274},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":274},
+	"sourceSize": {"w":416,"h":274}
+},
+{
+	"filename": "makeup_mcg.png",
+	"frame": {"x":700,"y":674,"w":230,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":33,"w":230,"h":234},
+	"sourceSize": {"w":280,"h":300}
+},
+{
+	"filename": "particle_crown_mcg.png",
+	"frame": {"x":944,"y":90,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":50}
+},
+{
+	"filename": "particle_glow_mcg.png",
+	"frame": {"x":986,"y":138,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":34,"h":34},
+	"sourceSize": {"w":50,"h":50}
+},
+{
+	"filename": "princess_mcg.png",
+	"frame": {"x":2,"y":592,"w":260,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":24,"w":260,"h":250},
+	"sourceSize": {"w":280,"h":300}
+},
+{
+	"filename": "progressbar_1_mcg.png",
+	"frame": {"x":2,"y":80,"w":522,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":522,"h":76},
+	"sourceSize": {"w":530,"h":80}
+},
+{
+	"filename": "progressbar_2_mcg.png",
+	"frame": {"x":2,"y":2,"w":522,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":522,"h":76},
+	"sourceSize": {"w":530,"h":80}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "preloader_atlas_mcg.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8342d817b18629cdf19c31ec7e70be36$"
+}
+}

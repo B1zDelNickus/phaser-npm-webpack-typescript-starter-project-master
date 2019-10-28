@@ -1,0 +1,88 @@
+{
+"frames": [
+	{
+		"filename": "dummy.png",
+		"frame": {"x":0, "y":1014, "w":1, "h":1},
+		"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+		"sourceSize": {"w":1,"h":1}
+	},
+	{
+		"filename": "left_du.png",
+		"frame": {"x":143, "y":585, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "logo_du.png",
+		"frame": {"x":0, "y":159, "w":253, "h":135},
+		"spriteSourceSize": {"x":0,"y":0,"w":253,"h":135},
+		"sourceSize": {"w":253,"h":135}
+	},
+	{
+		"filename": "more_du.png",
+		"frame": {"x":143, "y":299, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "more2_du.png",
+		"frame": {"x":143, "y":442, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "next_du.png",
+		"frame": {"x":0, "y":871, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "photo_du.png",
+		"frame": {"x":0, "y":299, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "play_du.png",
+		"frame": {"x":0, "y":728, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "replay_du.png",
+		"frame": {"x":0, "y":585, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "right_du.png",
+		"frame": {"x":0, "y":442, "w":138, "h":138},
+		"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+		"sourceSize": {"w":138,"h":138}
+	},
+	{
+		"filename": "skip_du.png",
+		"frame": {"x":0, "y":0, "w":284, "h":154},
+		"spriteSourceSize": {"x":0,"y":0,"w":284,"h":154},
+		"sourceSize": {"w":284,"h":154}
+	},
+	{
+		"filename": "sound_off_du.png",
+		"frame": {"x":143, "y":728, "w":120, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+		"sourceSize": {"w":120,"h":120}
+	},
+	{
+		"filename": "sound_on_du.png",
+		"frame": {"x":143, "y":853, "w":120, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+		"sourceSize": {"w":120,"h":120}
+	}
+
+],
+"meta": {
+	"image": "gui_du.png",
+	"size": {"w": 1024, "h": 1024},
+	"scale": "1"
+}
+}

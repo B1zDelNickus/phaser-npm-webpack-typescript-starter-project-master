@@ -1,0 +1,82 @@
+{
+"frames": [
+	{
+		"filename": "icon1_du.png",
+		"frame": {"x":513, "y":0, "w":293, "h":317},
+		"spriteSourceSize": {"x":0,"y":0,"w":293,"h":317},
+		"sourceSize": {"w":293,"h":317}
+	},
+	{
+		"filename": "icon2_du.png",
+		"frame": {"x":321, "y":348, "w":308, "h":309},
+		"spriteSourceSize": {"x":0,"y":0,"w":308,"h":309},
+		"sourceSize": {"w":308,"h":309}
+	},
+	{
+		"filename": "icon3_du.png",
+		"frame": {"x":0, "y":670, "w":309, "h":310},
+		"spriteSourceSize": {"x":0,"y":0,"w":309,"h":310},
+		"sourceSize": {"w":309,"h":310}
+	},
+	{
+		"filename": "icon4_du.png",
+		"frame": {"x":314, "y":670, "w":309, "h":312},
+		"spriteSourceSize": {"x":0,"y":0,"w":309,"h":312},
+		"sourceSize": {"w":309,"h":312}
+	},
+	{
+		"filename": "icon5_du.png",
+		"frame": {"x":0, "y":348, "w":316, "h":317},
+		"spriteSourceSize": {"x":0,"y":0,"w":316,"h":317},
+		"sourceSize": {"w":316,"h":317}
+	},
+	{
+		"filename": "logo_du.png",
+		"frame": {"x":0, "y":0, "w":508, "h":265},
+		"spriteSourceSize": {"x":0,"y":0,"w":508,"h":265},
+		"sourceSize": {"w":508,"h":265}
+	},
+	{
+		"filename": "particle_glow_du.png",
+		"frame": {"x":0, "y":985, "w":34, "h":34},
+		"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+		"sourceSize": {"w":34,"h":34}
+	},
+	{
+		"filename": "play_down_du.png",
+		"frame": {"x":634, "y":322, "w":249, "h":152},
+		"spriteSourceSize": {"x":0,"y":0,"w":249,"h":152},
+		"sourceSize": {"w":249,"h":152}
+	},
+	{
+		"filename": "play_normal_du.png",
+		"frame": {"x":628, "y":662, "w":249, "h":152},
+		"spriteSourceSize": {"x":0,"y":0,"w":249,"h":152},
+		"sourceSize": {"w":249,"h":152}
+	},
+	{
+		"filename": "play_over_du.png",
+		"frame": {"x":628, "y":819, "w":249, "h":152},
+		"spriteSourceSize": {"x":0,"y":0,"w":249,"h":152},
+		"sourceSize": {"w":249,"h":152}
+	},
+	{
+		"filename": "progressbar_1_du.png",
+		"frame": {"x":0, "y":309, "w":383, "h":34},
+		"spriteSourceSize": {"x":0,"y":0,"w":383,"h":34},
+		"sourceSize": {"w":383,"h":34}
+	},
+	{
+		"filename": "progressbar_2_du.png",
+		"frame": {"x":0, "y":270, "w":383, "h":34},
+		"spriteSourceSize": {"x":0,"y":0,"w":383,"h":34},
+		"sourceSize": {"w":383,"h":34}
+	}
+
+],
+"meta": {
+	"image": "preloader_atlas_du.png",
+	"size": {"w": 1024, "h": 1024},
+	"scale": "1"
+}
+}
