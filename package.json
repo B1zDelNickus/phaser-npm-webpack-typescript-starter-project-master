@@ -47,7 +47,7 @@
     "npm-check": "5.4.5",
     "phaser-ce": "^2.9.0",
     "pngjs-image": "0.11.7",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "ts-loader": "^2.3.7",
     "tslint": "^5.7.0",
     "tslint-loader": "3.5.3",
